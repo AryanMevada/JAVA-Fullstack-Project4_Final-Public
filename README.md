@@ -135,7 +135,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## SnapShot of project
 
-![Image Alt]([https://github.com/AryanMevada/JAVA-Fullstack-Project4_Final/blob/main/Screenshot%202025-04-25%20153228.png](https://github.com/AryanMevada/JAVA-Fullstack-Project4_Final-Public/blob/main/project%20folder/student-management-frontend/Screenshot%202025-04-25%20153155.png))
+![Image Alt](https://github.com/AryanMevada/JAVA-Fullstack-Project4_Final-Public/blob/main/project%20folder/student-management-frontend/Screenshot%202025-04-25%20153155.png)
 
 ![Image Alt](https://github.com/AryanMevada/JAVA-Fullstack-Project4_Final-Public/blob/main/project%20folder/student-management-frontend/Screenshot%202025-04-25%20153228.png)
 
